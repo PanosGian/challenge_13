@@ -77,7 +77,8 @@ The server is running, now you can make requests to it through your desired meth
 ---
 
 ## **Demonstration Video**
-If you'd like to see a full demo of the application, please visit the following link: [Demo Video]()
+If you'd like to see a full demo of the application, please visit the following link: [Demo Video](https://user-images.githubusercontent.com/70511172/232263877-dae77ed8-bf50-4b43-8b13-1df44d3acfdb.mp4)
+
 
 ---
 
